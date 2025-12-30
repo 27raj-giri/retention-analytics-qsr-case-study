@@ -42,6 +42,6 @@ Designed an Event Schema to track the **"Insight-to-Action"** loop in the Reelo 
 ---
 
 ### 👤 Author
-**Aayush Raj Giri**
+**Aayush Raj Giri** |
 *Product & Data Enthusiast | CSE Student*
 https://www.linkedin.com/in/27rajgiri/
